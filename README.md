@@ -10,7 +10,7 @@ Controlar despesas pessoais.
   - Para registrar uma saída de dinheiro incluir uma transação com valor negativo.
 
 - Excluir transação;
-  - Clicar no icone '-' onde a transação será excluida e o total atualizado.
+  - Clicar no ícone '-' onde a transação será excluida e o total atualizado.
   
 ## Armazenamento das informações:
   - Os dados ficam armazenados na seção do usuário. Para remover basta limpar os cookies do navegador.
